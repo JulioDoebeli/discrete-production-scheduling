@@ -97,14 +97,15 @@ int X5;
 ```
 
 ### Solution 1 by pl_solve
-|Variables	|MILP Feasible	|result|
-|	|26	|26|
-|X0	|0	|0|
-|X1	|3	|3|
-|X2	|5	|5|
-|X3	|0	|0|
-|X4	|10	|10|
-|X5	|8	|8|
+|Variables|MILP Feasible|result
+|:-------:|:-----------:| :---:
+|         |26           |26
+|X0       |0            |0
+|X1       |3            |3
+|X2       |5            |5
+|X3       |0            |0
+|X4       |10           |10
+|X5       |8            |8
 
 ## EX2
 to run this example type ```make run2``` on terminal
