@@ -213,6 +213,27 @@ int X17;
 ```
 
 ### Solution 2 by pl_solve
+Variables|MILP Feasible|MILP Better|result
+|-|-|-
+|28|27|27
+X0|0|0|0
+X1|0|0|0
+X2|0|0|0
+X3|0|0|0
+X4|2|1|1
+X5|0|0|0
+X6|0|0|0
+X7|0|1|1
+X8|0|0|0
+X9|3|3|3
+X10|0|0|0
+X11|10|10|10
+X12|0|0|0
+X13|0|0|0
+X14|5|4|4
+X15|0|0|0
+X16|0|0|0
+X17|8|8|8
 
 ## EX3
 to run this example type ```make run2``` on terminal
