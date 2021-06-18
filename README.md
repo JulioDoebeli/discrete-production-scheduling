@@ -44,7 +44,7 @@ x21 = 0;
 
 
 ## EX1
-to run this example type make run on terminal
+to run this example type ```make run``` on terminal
 
 ### Input 1
 ```c
@@ -101,7 +101,7 @@ int X5;
 ### Solution 1 by pl_solve
 
 ## EX2
-to run this example type make run2 on terminal
+to run this example type ```make run2``` on terminal
 
 ### Input 2
 ```c
@@ -208,7 +208,7 @@ int X17;
 ### Solution 2 by pl_solve
 
 ## EX3
-to run this example type make run2 on terminal
+to run this example type ```make run2``` on terminal
 
 ### Input 3
 ```c
