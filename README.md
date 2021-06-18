@@ -1,5 +1,4 @@
 # Introduction
-------------
 
 This is a c language program to generate a file in lp solve input format with the description of linear program that solves the problem for the given instance.
 
@@ -27,7 +26,6 @@ To compile type ```make compile``` on terminal. To compile, run tests and log te
 
 
 # Examples
-------------
 
 Example of lp solve input
 An example, taken from another problem, can be seen below.
