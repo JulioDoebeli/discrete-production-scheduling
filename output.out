@@ -1,0 +1,39 @@
+/* Objective function */
+MIN: X0 + X1 + X2 + X3 + X4 + X5;
+
+/* Variable bounds (aka min and max value) */
+X0 >= 0;
+X0 <= 11;
+X1 >= 0;
+X1 <= 6;
+X2 >= 0;
+X2 <= 6;
+X3 >= 0;
+X3 <= 6;
+X4 >= 0;
+X4 <= 11;
+X5 >= 0;
+X5 <= 9;
+
+/* Variable Constraints */
+1*X0 + 2*X1 + 1*X2 >= 10;
+1*X2 + 1*X3 >= 5;
+1*X4 >= 10;
+1*X5 >= 8;
+
+/* Variable Types */
+int X0;
+int X1;
+int X2;
+int X3;
+int X4;
+int X5;
+
+/* Linear equations system explained 
+	eq 0: 1*200
+	eq 1: 2*200
+	eq 2: 1*200 + 1*330
+	eq 3: 1*330
+	eq 4: 1*420
+	eq 5: 1*500
+*/
