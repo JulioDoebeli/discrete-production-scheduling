@@ -17,6 +17,13 @@ The input and output formats are described below and the standard input and outp
 
 ### Input
 Two numbers, representing m and n, followed by n pairs of numbers representing the order quantities with each time (in minutes), ni and ti.
+```c
+3 4
+10 200
+5 330
+10 420
+8 500
+```
 
 ### Output
 A file in lp solve input format with the description of the linear program that solves the problem for the given instance. The input format of lp solve is described in the URL below: http://lpsolve.sourceforge.net/5.5/lp-format.htm
